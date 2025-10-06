@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="left">I'm using:</h3>
+<h3 align="left">I use:</h3>
 <div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0uble-Zer0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
