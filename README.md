@@ -16,7 +16,7 @@
 
 <h3>My interests</h3>
   
-  1) 👀 I want to learn CSS, HTML, SQL, Rust and JavaScript.  
+  1) 👀 I want to learn ...  
   2) 🌱 I’m currently learning **python, data engineering and another areas**.
 
 <h3>My contacts:</h3>  
