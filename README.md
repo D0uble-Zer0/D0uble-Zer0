@@ -24,8 +24,6 @@ human = D0uble-Zer0()
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futura&weight=300&size=18&duration=2500&pause=500&color=F0F0F0&center=true&vCenter=true&width=450&lines=-%3E+I+want+to+get+into+the+IT+%3C-" alt="Typing SVG" /></a>
 </div>
 
----
-
 _My contacts_:  
 Gmail - TitovM157@gmail.com.  
 
