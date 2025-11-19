@@ -5,7 +5,7 @@
 ```python
 # About me...
 
-class D0uble-Zer0:
+class D0uble_Zer0:
 
     def __init__(self):
         self.pronouns = "He | Him"
@@ -15,7 +15,7 @@ class D0uble-Zer0:
         self.position = student
         self.language_spoken = ["ru_RU, en_US"]
 
-human = D0uble-Zer0()
+human = D0uble_Zer0()
 ```
 
 ---
